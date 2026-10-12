@@ -72,7 +72,7 @@ The library is organized across 11 mathematical domains, mapping 1:1 to the anal
 
 1. **Clone the repository:**
    ```bash
-   git clone git@github.com:Santiago5Q/Spectral-Confinement-Lean4.git
+   git clone https://github.com/yukeins/Spectral-Confinement-Lean4.git
    cd Spectral-Confinement-Lean4
    ```
 
@@ -98,7 +98,7 @@ The library is organized across 11 mathematical domains, mapping 1:1 to the anal
 ## 4. Companion Numerical Suite
 
 For the companion high-performance parallel empirical verification suite accelerating $2 \times 10^6$ zeros via NVIDIA CUDA GPU, see:
-* **Repository:** [Weil-Spectral-Engine](https://github.com/Santiago5Q/Weil-Spectral-Engine)
+* **Repository:** [Weil-Spectral-Engine](https://github.com/yukeins/Weil-Spectral-Engine)
 * **Features:** Memory-bounded $O(B)$ streaming, Montgomery–Vaughan off-diagonal tail bounding, CUDA Ampere kernel.
 
 ---
@@ -110,7 +110,7 @@ For the companion high-performance parallel empirical verification suite acceler
   author       = {R. Santiago Z. G.},
   title        = {Spectral-Confinement-Lean4: Formal Verification Library for Self-Adjoint Scaling Generators},
   year         = {2026},
-  url          = {https://github.com/Santiago5Q/Spectral-Confinement-Lean4},
+  url          = {https://github.com/yukeins/Spectral-Confinement-Lean4},
   note         = {Mechanically checked formal proofs for operator self-adjointness and spectral confinement}
 }
 ```
